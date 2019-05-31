@@ -1,0 +1,33 @@
+{
+  "name": "altyapıbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "emirhansarac",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.3.0",
+    "chance": "^1.0.18",
+    "common-tags": "^1.8.0",
+    "discord.js": "^11.5.1",
+    "discord.js-commando": "^0.10.0",
+    "e": "0.0.4",
+    "events.js": "^0.1.4",
+    "generate-password": "^1.4.1",
+    "jimp": "^0.6.4",
+    "math-expression-evaluator": "^1.2.17",
+    "moment": "^2.19.1",
+    "moment-duration-format": "^2.2.2",
+    "ms": "^2.0.0",
+    "name": "0.0.2",
+    "node-superfetch": "^0.1.9",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.7",
+    "steam-provider": "^0.3.2",
+    "superagent": "^5.0.5",
+    "weather-js": "^2.0.0"
+  }
+}
